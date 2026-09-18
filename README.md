@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="mailto:icalvobenito@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/iván-calvo-benito-8ab7a4431"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -12,7 +13,7 @@
 
 - 🎓 4º año del **Doble Grado en Ingeniería Informática y Estadística** — Universidad de Salamanca
 - 🌍 Preparando el **C1 Advanced de inglés**
-- 💻 Conocimientos en **Python, C, SQL, Java y R**
+- 💻 Conocimientos en **Python, C, C#, SQL, Java y R**
 
 ---
 
@@ -21,6 +22,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
